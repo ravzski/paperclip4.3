@@ -9,7 +9,7 @@ gem 'activerecord-jdbcsqlite3-adapter', :platforms => :jruby
 
 gem 'rubysl', :platforms => :rbx
 gem 'racc', :platforms => :rbx
-
+gem 'mimemagic',git: 'git@github.com:ravzski/mimemagic.git'
 gem 'pry'
 
 # Hinting at development dependencies
